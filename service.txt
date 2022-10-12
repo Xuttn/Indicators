@@ -6,16 +6,8 @@
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-127.0.0.1	10000nftgenerator.com
-127.0.0.1 bild.de
-127.0.0.1	1001labs.com
+10000nftgenerator.com
+bild.de
+1001labs.com
 127.0.0.1	100today.in
-127.0.0.1	10milhistoriascmo.com.br
-127.0.0.1	123hpcom.site
-127.0.0.1	127th-attackwing.de
-127.0.0.1	1scoffee.vn
-127.0.0.1	234hit.com
-127.0.0.1	263brand.co.zw
-127.0.0.1	2fholdingre.it
-127.0.0.1	2savemoney.com
 #
