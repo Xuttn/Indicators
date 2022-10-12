@@ -7,6 +7,7 @@
 ################################################################
 #
 127.0.0.1	10000nftgenerator.com
+127.0.0.1 bild.de
 127.0.0.1	1001labs.com
 127.0.0.1	100today.in
 127.0.0.1	10milhistoriascmo.com.br
@@ -17,5 +18,4 @@
 127.0.0.1	263brand.co.zw
 127.0.0.1	2fholdingre.it
 127.0.0.1	2savemoney.com
-127.0.0.1 bild.de
 #
