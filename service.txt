@@ -7,7 +7,8 @@
 ################################################################
 #
 10000nftgenerator.com
-bild.de
-1001labs.com
+127.0.0.1	bild.de
+127.0.0.1	crazygames.com
+127.0.0.1	gameduell.de
 127.0.0.1	100today.in
 #
