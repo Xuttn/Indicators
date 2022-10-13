@@ -6,7 +6,6 @@
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-10000nftgenerator.com
 127.0.0.1	bild.de
 127.0.0.1	crazygames.com
 127.0.0.1	gameduell.de
