@@ -1,5 +1,5 @@
 ################################################################
-# IPs related to ongoing campaign                                  #
+# IPs related to ongoing campaign                              #
 # Last updated: 2022-11-04 12:11:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/.                     #
