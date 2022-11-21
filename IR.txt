@@ -1,9 +1,7 @@
 ################################################################
-# IPs related to ongoing campaign                          #
-# Last updated: 2022-11-04 12:11:07 (UTC)                   #
-#                                                       #
-# Terms Of Use: https://urlhaus.abuse.ch/.               #
-# For questions please contact urlhaus [at] abuse.ch    #
+# IPs related to monitoring IR IPs                             #
+# Last updated: 2022-11-20 12:11:07                            #
+#                                                              #
 ################################################################
 #
 127.0.0.1	109.125.101
