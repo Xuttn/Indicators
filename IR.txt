@@ -1,5 +1,5 @@
 ################################################################
-# IPs related to monitoring IR IPs                             #
+# IPs related to monitoring IR connections                     #
 # Last updated: 2022-11-20 12:11:07                            #
 #                                                              #
 ################################################################
