@@ -49,4 +49,5 @@
 127.0.0.1	dash.cloudflare.com
 127.0.0.1	cdn.discord.com
 127.0.0.1	alibabacloud.com
+127.0.0.1	dropboxusercontent.com
 #
