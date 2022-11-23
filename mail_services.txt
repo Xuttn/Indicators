@@ -1,0 +1,22 @@
+################################################################
+# most well knoewn mail services                               #
+# Last updated: 2022-11-12 19:51:07 (UTC)                      #
+#                                                              #
+################################################################
+#
+127.0.0.1	mail.google.com
+127.0.0.1	icloud.com
+127.0.0.1	mail.yahoo.com
+127.0.0.1	mail.aol.com
+127.0.0.1	proton.me
+127.0.0.1	zoho.eu
+127.0.0.1	titan.email
+127.0.0.1	gmx.com
+127.0.0.1	mail.com
+127.0.0.1	tutanota.com
+127.0.0.1	startmail.com
+127.0.0.1	posteo.de
+127.0.0.1	mailbox.org
+127.0.0.1	servermx.com
+127.0.0.1	runbox.com
+#
