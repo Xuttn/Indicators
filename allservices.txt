@@ -27,6 +27,7 @@
 127.0.0.1	justcloud.com
 127.0.0.1	cmediafire.com
 127.0.0.1	mega.co.nz
+127.0.0.1	mega.io
 127.0.0.1	memopal.com
 127.0.0.1	mightyupload.com
 127.0.0.1	mydrive.net
